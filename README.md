@@ -1,2 +1,2 @@
 
-![App preview](pail_frame_1_4phones.png)
+![App preview](pali_frame_1_4phones.png)
